@@ -1,2 +1,2 @@
-# SimpleR esponsive Tribute Page
+# Simple Responsive Tribute Page
 A simple responsive webpage using basic CSS and HTML.
