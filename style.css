@@ -1,0 +1,23 @@
+#main {
+    text-align: center;
+  }
+    #img-div {
+    background-color: #F1F1F1;
+    padding-bottom: 1px;
+  }
+  #image {
+    display: block;
+    max-width: 100%;
+  }
+  #img-caption {
+    font-weight: 600;
+  }
+  #tribute-info {
+    text-align: justify;
+    padding-right: 150px;
+    padding-left: 150px;
+  }
+  #tribute-link {
+    font-size: 18px;
+    font-weight: bold;
+  }
